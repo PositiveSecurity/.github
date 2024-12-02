@@ -8,6 +8,7 @@ We run CTF competitions on various platforms that cover not only the challenges 
 
 **Contacts:**
 
+- **Email**: [audit@positive.com](mailto:audit@positive.com)
 - **Website**: [positive.com](https://www.positive.com/)
 - **X / Twitter**: [@positiveweb3](https://x.com/positiveweb3)
 - **Telegram**: [@PositiveWeb3](https://t.me/PositiveWeb3)
